@@ -254,14 +254,9 @@ This is a learning/portfolio repo, but contributions are welcome:
 
 ---
 
-## License
+## License 
 
-Choose one:
-
-* MIT (recommended for public learning repos)
-* Apache-2.0
-
-Add `LICENSE` once decided.
+* MIT  
 
 ---
 
